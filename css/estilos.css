@@ -1,0 +1,53 @@
+*
+{
+    text-align: center;
+    align-items: center;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+body{
+    background-image: url(../img/dominik-hofbauer-1yLt0422fYQ-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center right;
+   
+}
+h1{
+font-size: 30px;
+color: white;
+
+}
+
+ td , th{
+    border: 1px solid;
+    align-items: center;
+    text-align: center;
+    padding: 10px 40px;
+    margin: 0;
+    background: white;
+    
+}
+.tabela{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.vitoria{
+background-color: green;
+color: white;
+}
+.empate{
+    background-color: rgb(214, 218, 35);
+    color: white;
+    }
+    .derrota{
+        background-color: rgb(218, 34, 21);
+        color: white;
+        }
+        th{
+  background-color: blue;
+  color: white;
+        }
